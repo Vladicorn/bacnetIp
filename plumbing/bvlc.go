@@ -3,7 +3,7 @@ package plumbing
 import (
 	"encoding/binary"
 
-	"github.com/ulbios/bacnet/common"
+	"github.com/vladicorn/bacnetip/common"
 )
 
 // BVLCType is used for BACnet/IP in BVLL.

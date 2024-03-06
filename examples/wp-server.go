@@ -5,9 +5,9 @@ import (
 	"net"
 
 	"github.com/spf13/cobra"
-	"github.com/ulbios/bacnet"
-	"github.com/ulbios/bacnet/objects"
-	"github.com/ulbios/bacnet/services"
+	"github.com/vladicorn/bacnetip"
+	"github.com/vladicorn/bacnetip/objects"
+	"github.com/vladicorn/bacnetip/services"
 )
 
 var (

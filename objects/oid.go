@@ -3,7 +3,7 @@ package objects
 import (
 	"encoding/binary"
 
-	"github.com/ulbios/bacnet/common"
+	"github.com/vladicorn/bacnetip/common"
 )
 
 type ObjectIdentifier struct {

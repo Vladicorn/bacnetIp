@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/ulbios/bacnet/common"
+	"github.com/vladicorn/bacnetip/common"
 )
 
 func DecUnisgnedInteger(rawPayload APDUPayload) (uint32, error) {

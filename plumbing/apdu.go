@@ -1,8 +1,8 @@
 package plumbing
 
 import (
-	"github.com/ulbios/bacnet/common"
-	"github.com/ulbios/bacnet/objects"
+	"github.com/vladicorn/bacnetip/common"
+	"github.com/vladicorn/bacnetip/objects"
 )
 
 // APDU is a Application protocol DAta Units.

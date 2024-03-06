@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/ulbios/bacnet"
-	"github.com/ulbios/bacnet/common"
-	"github.com/ulbios/bacnet/services"
+	"github.com/vladicorn/bacnetip"
+	"github.com/vladicorn/bacnetip/common"
+	"github.com/vladicorn/bacnetip/services"
 )
 
 func init() {

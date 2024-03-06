@@ -1,7 +1,7 @@
 package objects
 
 import (
-	"github.com/ulbios/bacnet/common"
+	"github.com/vladicorn/bacnetip/common"
 )
 
 func DecPropertyIdentifier(rawPayload APDUPayload) (uint8, error) {

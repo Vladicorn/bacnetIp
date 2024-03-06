@@ -8,10 +8,10 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/ulbios/bacnet"
-	"github.com/ulbios/bacnet/common"
-	"github.com/ulbios/bacnet/plumbing"
-	"github.com/ulbios/bacnet/services"
+	"github.com/vladicorn/bacnetip"
+	"github.com/vladicorn/bacnetip/common"
+	"github.com/vladicorn/bacnetip/plumbing"
+	"github.com/vladicorn/bacnetip/services"
 )
 
 type serializeable interface {
